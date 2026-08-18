@@ -1,0 +1,10 @@
+{
+    "TASKMGR": "taskmgr",
+    "NOTEPAD": "notepad",
+    "CALC": "calc",
+    "CHROME": "start chrome",
+    "SETTINGS": "start ms-settings:",
+    "Doom": "D:\\Games\\DOOM (2016)\\DOOMx64.exe",
+    "FACEBOOK":  "start https://facebook.com"
+    
+}
